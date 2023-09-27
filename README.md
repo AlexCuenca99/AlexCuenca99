@@ -1,3 +1,4 @@
+[![Social banner for AlexC99]([https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg](https://media.licdn.com/dms/image/D4E16AQH-K_XQWBRcEw/profile-displaybackgroundimage-shrink_350_1400/0/1683755350180?e=1701302400&v=beta&t=ivsvVL7Z61mdM91e6W44xghH4Lmk8_r_edYhW5x8iMA))]
 <h1 align="center">Hi 👋, I'm Alex C.</h1>
 <h3 align="center">Turning lines of code into magical solutions!</h3>
 
@@ -16,9 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alex_pcr99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alex_pcr99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-cuenca-ramos-77b206224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-cuenca-ramos-77b206224/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alex-cuenca-ramos-77b206224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-cuenca-ramos-77b206224" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/alexc99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alexc99" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@alex_patricio191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@alex_patricio191" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/alex_patricio191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alex_patricio191" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
