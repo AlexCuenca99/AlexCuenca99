@@ -1,4 +1,4 @@
-[![Social banner for AlexC99]([https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg](https://media.licdn.com/dms/image/D4E16AQH-K_XQWBRcEw/profile-displaybackgroundimage-shrink_350_1400/0/1683755350180?e=1701302400&v=beta&t=ivsvVL7Z61mdM91e6W44xghH4Lmk8_r_edYhW5x8iMA))]
+[![Social banner for AlexC99](https://media.licdn.com/dms/image/D4E16AQH-K_XQWBRcEw/profile-displaybackgroundimage-shrink_350_1400/0/1683755350180?e=1701302400&v=beta&t=ivsvVL7Z61mdM91e6W44xghH4Lmk8_r_edYhW5x8iMA)]
 <h1 align="center">Hi 👋, I'm Alex C.</h1>
 <h3 align="center">Turning lines of code into magical solutions!</h3>
 
